@@ -1,0 +1,2139 @@
+Prime number to test: 2
+The list of digits in current prime: ['2']
+Prime_length: 1
+Prime did not qualify. 
+
+Prime number to test: 3
+The list of digits in current prime: ['3']
+Prime_length: 1
+Prime did not qualify. 
+
+Prime number to test: 5
+The list of digits in current prime: ['5']
+Prime_length: 1
+Prime did not qualify. 
+
+Prime number to test: 7
+The list of digits in current prime: ['7']
+Prime_length: 1
+Prime did not qualify. 
+
+Prime number to test: 11
+The list of digits in current prime: ['1', '1']
+Prime_length: 2
+Product of digits of product_prime: 1
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Prime did not qualify. 
+
+Prime number to test: 13
+The list of digits in current prime: ['1', '3']
+Prime_length: 2
+Product of digits of product_prime: 3
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 13
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 13
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Prime did not qualify. 
+
+Prime number to test: 17
+The list of digits in current prime: ['1', '7']
+Prime_length: 2
+Product of digits of product_prime: 7
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 17
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 17
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 17
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 17
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 17
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 17
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Prime did not qualify. 
+
+Prime number to test: 19
+The list of digits in current prime: ['1', '9']
+Prime_length: 2
+Product of digits of product_prime: 9
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 19
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 19
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 19
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 19
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 19
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 19
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 19
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 19
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Prime did not qualify. 
+
+Prime number to test: 23
+The list of digits in current prime: ['2', '3']
+Prime_length: 2
+Product of digits of product_prime: 6
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 23
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 23
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 23
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 23
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 23
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Prime did not qualify. 
+
+Prime number to test: 29
+The list of digits in current prime: ['2', '9']
+Prime_length: 2
+Product of digits of product_prime: 18
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 29
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 29
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 29
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 29
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 29
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 29
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 29
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 29
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 29
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 29
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 29
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 29
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 29
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 29
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 29
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 29
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 29
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 29
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 29
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 29
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 29
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 29
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 29
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 29
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 29
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 29
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 29
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 29
+Appending prime to answers: [29]
+
+Prime number to test: 31
+The list of digits in current prime: ['3', '1']
+Prime_length: 2
+Product of digits of product_prime: 3
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 31
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 31
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Prime did not qualify. 
+
+Prime number to test: 37
+The list of digits in current prime: ['3', '7']
+Prime_length: 2
+Product of digits of product_prime: 21
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 37
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 37
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 37
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 37
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 37
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 37
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 37
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 37
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 37
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 37
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 37
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 37
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 37
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 37
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 37
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 37
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 37
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 37
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 37
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 37
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 37
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 37
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 37
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 37
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 37
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 37
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 37
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 37
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 37
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 37
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 37
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 37
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 37
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 37
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 37
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 37
+Appending prime to answers: [37]
+
+Prime number to test: 41
+The list of digits in current prime: ['4', '1']
+Prime_length: 2
+Product of digits of product_prime: 4
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 41
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 41
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 41
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Prime did not qualify. 
+
+Prime number to test: 43
+The list of digits in current prime: ['4', '3']
+Prime_length: 2
+Product of digits of product_prime: 12
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 43
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 43
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 43
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 43
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 43
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 43
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 43
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 43
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 43
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 43
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 43
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 43
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 43
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 43
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 43
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 43
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 43
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 43
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 43
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 43
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 43
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 43
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 43
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 43
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 43
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Prime did not qualify. 
+
+Prime number to test: 47
+The list of digits in current prime: ['4', '7']
+Prime_length: 2
+Product of digits of product_prime: 28
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 47
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 47
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 47
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 47
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 47
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 47
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 47
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 47
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 47
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 47
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 47
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 47
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 47
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 47
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 47
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 47
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 47
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 47
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 47
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 47
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 47
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 47
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 47
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 47
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 47
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 47
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 47
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 47
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 47
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 47
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 47
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 47
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 47
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 47
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 47
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 47
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 47
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Appending prime to possible: 47
+Now testing smaller_num: 39
+Product of digits of smaller_num: 27
+Appending prime to possible: 47
+Now testing smaller_num: 40
+Product of digits of smaller_num: 0
+Appending prime to possible: 47
+Now testing smaller_num: 41
+Product of digits of smaller_num: 4
+Appending prime to possible: 47
+Now testing smaller_num: 42
+Product of digits of smaller_num: 8
+Appending prime to possible: 47
+Now testing smaller_num: 43
+Product of digits of smaller_num: 12
+Appending prime to possible: 47
+Now testing smaller_num: 44
+Product of digits of smaller_num: 16
+Appending prime to possible: 47
+Now testing smaller_num: 45
+Product of digits of smaller_num: 20
+Appending prime to possible: 47
+Now testing smaller_num: 46
+Product of digits of smaller_num: 24
+Appending prime to possible: 47
+Appending prime to answers: [47]
+
+Prime number to test: 53
+The list of digits in current prime: ['5', '3']
+Prime_length: 2
+Product of digits of product_prime: 15
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 53
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 53
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 53
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 53
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 53
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 53
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 53
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 53
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 53
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 53
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 53
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 53
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 53
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 53
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 53
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 53
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 53
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 53
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 53
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 53
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 53
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 53
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 53
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 53
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 53
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 53
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 53
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 53
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 53
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 53
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 53
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 53
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 53
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 53
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Prime did not qualify. 
+
+Prime number to test: 59
+The list of digits in current prime: ['5', '9']
+Prime_length: 2
+Product of digits of product_prime: 45
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 59
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 59
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 59
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 59
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 59
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 59
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 59
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 59
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 59
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 59
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 59
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 59
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 59
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 59
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 59
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 59
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 59
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 59
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 59
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 59
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 59
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 59
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 59
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 59
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 59
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 59
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 59
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 59
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 59
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 59
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 59
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 59
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 59
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 59
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 59
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 59
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 59
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Appending prime to possible: 59
+Now testing smaller_num: 39
+Product of digits of smaller_num: 27
+Appending prime to possible: 59
+Now testing smaller_num: 40
+Product of digits of smaller_num: 0
+Appending prime to possible: 59
+Now testing smaller_num: 41
+Product of digits of smaller_num: 4
+Appending prime to possible: 59
+Now testing smaller_num: 42
+Product of digits of smaller_num: 8
+Appending prime to possible: 59
+Now testing smaller_num: 43
+Product of digits of smaller_num: 12
+Appending prime to possible: 59
+Now testing smaller_num: 44
+Product of digits of smaller_num: 16
+Appending prime to possible: 59
+Now testing smaller_num: 45
+Product of digits of smaller_num: 20
+Appending prime to possible: 59
+Now testing smaller_num: 46
+Product of digits of smaller_num: 24
+Appending prime to possible: 59
+Now testing smaller_num: 47
+Product of digits of smaller_num: 28
+Appending prime to possible: 59
+Now testing smaller_num: 48
+Product of digits of smaller_num: 32
+Appending prime to possible: 59
+Now testing smaller_num: 49
+Product of digits of smaller_num: 36
+Appending prime to possible: 59
+Now testing smaller_num: 50
+Product of digits of smaller_num: 0
+Appending prime to possible: 59
+Now testing smaller_num: 51
+Product of digits of smaller_num: 5
+Appending prime to possible: 59
+Now testing smaller_num: 52
+Product of digits of smaller_num: 10
+Appending prime to possible: 59
+Now testing smaller_num: 53
+Product of digits of smaller_num: 15
+Appending prime to possible: 59
+Now testing smaller_num: 54
+Product of digits of smaller_num: 20
+Appending prime to possible: 59
+Now testing smaller_num: 55
+Product of digits of smaller_num: 25
+Appending prime to possible: 59
+Now testing smaller_num: 56
+Product of digits of smaller_num: 30
+Appending prime to possible: 59
+Now testing smaller_num: 57
+Product of digits of smaller_num: 35
+Appending prime to possible: 59
+Now testing smaller_num: 58
+Product of digits of smaller_num: 40
+Appending prime to possible: 59
+Appending prime to answers: [59]
+
+Prime number to test: 61
+The list of digits in current prime: ['6', '1']
+Prime_length: 2
+Product of digits of product_prime: 6
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 61
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 61
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 61
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 61
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 61
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Prime did not qualify. 
+
+Prime number to test: 67
+The list of digits in current prime: ['6', '7']
+Prime_length: 2
+Product of digits of product_prime: 42
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 67
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 67
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 67
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 67
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 67
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 67
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 67
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 67
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 67
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 67
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 67
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 67
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 67
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 67
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 67
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 67
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 67
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 67
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 67
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 67
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 67
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 67
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 67
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 67
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 67
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 67
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 67
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 67
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 67
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 67
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 67
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 67
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 67
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 67
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 67
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 67
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 67
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Appending prime to possible: 67
+Now testing smaller_num: 39
+Product of digits of smaller_num: 27
+Appending prime to possible: 67
+Now testing smaller_num: 40
+Product of digits of smaller_num: 0
+Appending prime to possible: 67
+Now testing smaller_num: 41
+Product of digits of smaller_num: 4
+Appending prime to possible: 67
+Now testing smaller_num: 42
+Product of digits of smaller_num: 8
+Appending prime to possible: 67
+Now testing smaller_num: 43
+Product of digits of smaller_num: 12
+Appending prime to possible: 67
+Now testing smaller_num: 44
+Product of digits of smaller_num: 16
+Appending prime to possible: 67
+Now testing smaller_num: 45
+Product of digits of smaller_num: 20
+Appending prime to possible: 67
+Now testing smaller_num: 46
+Product of digits of smaller_num: 24
+Appending prime to possible: 67
+Now testing smaller_num: 47
+Product of digits of smaller_num: 28
+Appending prime to possible: 67
+Now testing smaller_num: 48
+Product of digits of smaller_num: 32
+Appending prime to possible: 67
+Now testing smaller_num: 49
+Product of digits of smaller_num: 36
+Appending prime to possible: 67
+Now testing smaller_num: 50
+Product of digits of smaller_num: 0
+Appending prime to possible: 67
+Now testing smaller_num: 51
+Product of digits of smaller_num: 5
+Appending prime to possible: 67
+Now testing smaller_num: 52
+Product of digits of smaller_num: 10
+Appending prime to possible: 67
+Now testing smaller_num: 53
+Product of digits of smaller_num: 15
+Appending prime to possible: 67
+Now testing smaller_num: 54
+Product of digits of smaller_num: 20
+Appending prime to possible: 67
+Now testing smaller_num: 55
+Product of digits of smaller_num: 25
+Appending prime to possible: 67
+Now testing smaller_num: 56
+Product of digits of smaller_num: 30
+Appending prime to possible: 67
+Now testing smaller_num: 57
+Product of digits of smaller_num: 35
+Appending prime to possible: 67
+Now testing smaller_num: 58
+Product of digits of smaller_num: 40
+Appending prime to possible: 67
+Now testing smaller_num: 59
+Product of digits of smaller_num: 45
+Appending prime to possible: 67
+Now testing smaller_num: 60
+Product of digits of smaller_num: 0
+Appending prime to possible: 67
+Now testing smaller_num: 61
+Product of digits of smaller_num: 6
+Appending prime to possible: 67
+Now testing smaller_num: 62
+Product of digits of smaller_num: 12
+Appending prime to possible: 67
+Now testing smaller_num: 63
+Product of digits of smaller_num: 18
+Appending prime to possible: 67
+Now testing smaller_num: 64
+Product of digits of smaller_num: 24
+Appending prime to possible: 67
+Now testing smaller_num: 65
+Product of digits of smaller_num: 30
+Appending prime to possible: 67
+Now testing smaller_num: 66
+Product of digits of smaller_num: 36
+Appending prime to possible: 67
+Appending prime to answers: [67]
+
+Prime number to test: 71
+The list of digits in current prime: ['7', '1']
+Prime_length: 2
+Product of digits of product_prime: 7
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 71
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 71
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 71
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 71
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 71
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 71
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Prime did not qualify. 
+
+Prime number to test: 73
+The list of digits in current prime: ['7', '3']
+Prime_length: 2
+Product of digits of product_prime: 21
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 73
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 73
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 73
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 73
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 73
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 73
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 73
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 73
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 73
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 73
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 73
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 73
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 73
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 73
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 73
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 73
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 73
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 73
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 73
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 73
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 73
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 73
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 73
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 73
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 73
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 73
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 73
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 73
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 73
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 73
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 73
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 73
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 73
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 73
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 73
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 73
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Prime did not qualify. 
+
+Prime number to test: 79
+The list of digits in current prime: ['7', '9']
+Prime_length: 2
+Product of digits of product_prime: 63
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 79
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 79
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 79
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 79
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 79
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 79
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 79
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 79
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 79
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 79
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 79
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 79
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 79
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 79
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 79
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 79
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 79
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 79
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 79
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 79
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 79
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 79
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 79
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 79
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 79
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 79
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 79
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 79
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 79
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 79
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 79
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 79
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 79
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 79
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Appending prime to possible: 79
+Now testing smaller_num: 39
+Product of digits of smaller_num: 27
+Appending prime to possible: 79
+Now testing smaller_num: 40
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 41
+Product of digits of smaller_num: 4
+Appending prime to possible: 79
+Now testing smaller_num: 42
+Product of digits of smaller_num: 8
+Appending prime to possible: 79
+Now testing smaller_num: 43
+Product of digits of smaller_num: 12
+Appending prime to possible: 79
+Now testing smaller_num: 44
+Product of digits of smaller_num: 16
+Appending prime to possible: 79
+Now testing smaller_num: 45
+Product of digits of smaller_num: 20
+Appending prime to possible: 79
+Now testing smaller_num: 46
+Product of digits of smaller_num: 24
+Appending prime to possible: 79
+Now testing smaller_num: 47
+Product of digits of smaller_num: 28
+Appending prime to possible: 79
+Now testing smaller_num: 48
+Product of digits of smaller_num: 32
+Appending prime to possible: 79
+Now testing smaller_num: 49
+Product of digits of smaller_num: 36
+Appending prime to possible: 79
+Now testing smaller_num: 50
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 51
+Product of digits of smaller_num: 5
+Appending prime to possible: 79
+Now testing smaller_num: 52
+Product of digits of smaller_num: 10
+Appending prime to possible: 79
+Now testing smaller_num: 53
+Product of digits of smaller_num: 15
+Appending prime to possible: 79
+Now testing smaller_num: 54
+Product of digits of smaller_num: 20
+Appending prime to possible: 79
+Now testing smaller_num: 55
+Product of digits of smaller_num: 25
+Appending prime to possible: 79
+Now testing smaller_num: 56
+Product of digits of smaller_num: 30
+Appending prime to possible: 79
+Now testing smaller_num: 57
+Product of digits of smaller_num: 35
+Appending prime to possible: 79
+Now testing smaller_num: 58
+Product of digits of smaller_num: 40
+Appending prime to possible: 79
+Now testing smaller_num: 59
+Product of digits of smaller_num: 45
+Appending prime to possible: 79
+Now testing smaller_num: 60
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 61
+Product of digits of smaller_num: 6
+Appending prime to possible: 79
+Now testing smaller_num: 62
+Product of digits of smaller_num: 12
+Appending prime to possible: 79
+Now testing smaller_num: 63
+Product of digits of smaller_num: 18
+Appending prime to possible: 79
+Now testing smaller_num: 64
+Product of digits of smaller_num: 24
+Appending prime to possible: 79
+Now testing smaller_num: 65
+Product of digits of smaller_num: 30
+Appending prime to possible: 79
+Now testing smaller_num: 66
+Product of digits of smaller_num: 36
+Appending prime to possible: 79
+Now testing smaller_num: 67
+Product of digits of smaller_num: 42
+Appending prime to possible: 79
+Now testing smaller_num: 68
+Product of digits of smaller_num: 48
+Appending prime to possible: 79
+Now testing smaller_num: 69
+Product of digits of smaller_num: 54
+Appending prime to possible: 79
+Now testing smaller_num: 70
+Product of digits of smaller_num: 0
+Appending prime to possible: 79
+Now testing smaller_num: 71
+Product of digits of smaller_num: 7
+Appending prime to possible: 79
+Now testing smaller_num: 72
+Product of digits of smaller_num: 14
+Appending prime to possible: 79
+Now testing smaller_num: 73
+Product of digits of smaller_num: 21
+Appending prime to possible: 79
+Now testing smaller_num: 74
+Product of digits of smaller_num: 28
+Appending prime to possible: 79
+Now testing smaller_num: 75
+Product of digits of smaller_num: 35
+Appending prime to possible: 79
+Now testing smaller_num: 76
+Product of digits of smaller_num: 42
+Appending prime to possible: 79
+Now testing smaller_num: 77
+Product of digits of smaller_num: 49
+Appending prime to possible: 79
+Now testing smaller_num: 78
+Product of digits of smaller_num: 56
+Appending prime to possible: 79
+Appending prime to answers: [79]
+
+Prime number to test: 83
+The list of digits in current prime: ['8', '3']
+Prime_length: 2
+Product of digits of product_prime: 24
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 83
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 83
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 83
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 83
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 83
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 83
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 83
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 83
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 83
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 83
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 83
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 83
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 83
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 83
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 83
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 83
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 83
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 83
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 83
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 83
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 83
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 83
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 83
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 83
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 83
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 83
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 83
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 83
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 83
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 83
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 83
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 83
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 83
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 83
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 83
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 83
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 83
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Prime did not qualify. 
+
+Prime number to test: 89
+The list of digits in current prime: ['8', '9']
+Prime_length: 2
+Product of digits of product_prime: 72
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 89
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 89
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 89
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 89
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 89
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 89
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 89
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 89
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 89
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 89
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 89
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 89
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 89
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 89
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 89
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 89
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 89
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 89
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 89
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 89
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 89
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 89
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 89
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 89
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 89
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 89
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 89
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 89
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 89
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 89
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 89
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 89
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 89
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 89
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Appending prime to possible: 89
+Now testing smaller_num: 39
+Product of digits of smaller_num: 27
+Appending prime to possible: 89
+Now testing smaller_num: 40
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 41
+Product of digits of smaller_num: 4
+Appending prime to possible: 89
+Now testing smaller_num: 42
+Product of digits of smaller_num: 8
+Appending prime to possible: 89
+Now testing smaller_num: 43
+Product of digits of smaller_num: 12
+Appending prime to possible: 89
+Now testing smaller_num: 44
+Product of digits of smaller_num: 16
+Appending prime to possible: 89
+Now testing smaller_num: 45
+Product of digits of smaller_num: 20
+Appending prime to possible: 89
+Now testing smaller_num: 46
+Product of digits of smaller_num: 24
+Appending prime to possible: 89
+Now testing smaller_num: 47
+Product of digits of smaller_num: 28
+Appending prime to possible: 89
+Now testing smaller_num: 48
+Product of digits of smaller_num: 32
+Appending prime to possible: 89
+Now testing smaller_num: 49
+Product of digits of smaller_num: 36
+Appending prime to possible: 89
+Now testing smaller_num: 50
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 51
+Product of digits of smaller_num: 5
+Appending prime to possible: 89
+Now testing smaller_num: 52
+Product of digits of smaller_num: 10
+Appending prime to possible: 89
+Now testing smaller_num: 53
+Product of digits of smaller_num: 15
+Appending prime to possible: 89
+Now testing smaller_num: 54
+Product of digits of smaller_num: 20
+Appending prime to possible: 89
+Now testing smaller_num: 55
+Product of digits of smaller_num: 25
+Appending prime to possible: 89
+Now testing smaller_num: 56
+Product of digits of smaller_num: 30
+Appending prime to possible: 89
+Now testing smaller_num: 57
+Product of digits of smaller_num: 35
+Appending prime to possible: 89
+Now testing smaller_num: 58
+Product of digits of smaller_num: 40
+Appending prime to possible: 89
+Now testing smaller_num: 59
+Product of digits of smaller_num: 45
+Appending prime to possible: 89
+Now testing smaller_num: 60
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 61
+Product of digits of smaller_num: 6
+Appending prime to possible: 89
+Now testing smaller_num: 62
+Product of digits of smaller_num: 12
+Appending prime to possible: 89
+Now testing smaller_num: 63
+Product of digits of smaller_num: 18
+Appending prime to possible: 89
+Now testing smaller_num: 64
+Product of digits of smaller_num: 24
+Appending prime to possible: 89
+Now testing smaller_num: 65
+Product of digits of smaller_num: 30
+Appending prime to possible: 89
+Now testing smaller_num: 66
+Product of digits of smaller_num: 36
+Appending prime to possible: 89
+Now testing smaller_num: 67
+Product of digits of smaller_num: 42
+Appending prime to possible: 89
+Now testing smaller_num: 68
+Product of digits of smaller_num: 48
+Appending prime to possible: 89
+Now testing smaller_num: 69
+Product of digits of smaller_num: 54
+Appending prime to possible: 89
+Now testing smaller_num: 70
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 71
+Product of digits of smaller_num: 7
+Appending prime to possible: 89
+Now testing smaller_num: 72
+Product of digits of smaller_num: 14
+Appending prime to possible: 89
+Now testing smaller_num: 73
+Product of digits of smaller_num: 21
+Appending prime to possible: 89
+Now testing smaller_num: 74
+Product of digits of smaller_num: 28
+Appending prime to possible: 89
+Now testing smaller_num: 75
+Product of digits of smaller_num: 35
+Appending prime to possible: 89
+Now testing smaller_num: 76
+Product of digits of smaller_num: 42
+Appending prime to possible: 89
+Now testing smaller_num: 77
+Product of digits of smaller_num: 49
+Appending prime to possible: 89
+Now testing smaller_num: 78
+Product of digits of smaller_num: 56
+Appending prime to possible: 89
+Now testing smaller_num: 79
+Product of digits of smaller_num: 63
+Appending prime to possible: 89
+Now testing smaller_num: 80
+Product of digits of smaller_num: 0
+Appending prime to possible: 89
+Now testing smaller_num: 81
+Product of digits of smaller_num: 8
+Appending prime to possible: 89
+Now testing smaller_num: 82
+Product of digits of smaller_num: 16
+Appending prime to possible: 89
+Now testing smaller_num: 83
+Product of digits of smaller_num: 24
+Appending prime to possible: 89
+Now testing smaller_num: 84
+Product of digits of smaller_num: 32
+Appending prime to possible: 89
+Now testing smaller_num: 85
+Product of digits of smaller_num: 40
+Appending prime to possible: 89
+Now testing smaller_num: 86
+Product of digits of smaller_num: 48
+Appending prime to possible: 89
+Now testing smaller_num: 87
+Product of digits of smaller_num: 56
+Appending prime to possible: 89
+Now testing smaller_num: 88
+Product of digits of smaller_num: 64
+Appending prime to possible: 89
+Appending prime to answers: [89]
+
+Prime number to test: 97
+The list of digits in current prime: ['9', '7']
+Prime_length: 2
+Product of digits of product_prime: 63
+Setting not_qualified to: False
+Now testing smaller_num: 1
+Product of digits of smaller_num: 1
+Appending prime to possible: 97
+Now testing smaller_num: 2
+Product of digits of smaller_num: 2
+Appending prime to possible: 97
+Now testing smaller_num: 3
+Product of digits of smaller_num: 3
+Appending prime to possible: 97
+Now testing smaller_num: 4
+Product of digits of smaller_num: 4
+Appending prime to possible: 97
+Now testing smaller_num: 5
+Product of digits of smaller_num: 5
+Appending prime to possible: 97
+Now testing smaller_num: 6
+Product of digits of smaller_num: 6
+Appending prime to possible: 97
+Now testing smaller_num: 7
+Product of digits of smaller_num: 7
+Appending prime to possible: 97
+Now testing smaller_num: 8
+Product of digits of smaller_num: 8
+Appending prime to possible: 97
+Now testing smaller_num: 9
+Product of digits of smaller_num: 9
+Appending prime to possible: 97
+Now testing smaller_num: 10
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 11
+Product of digits of smaller_num: 1
+Appending prime to possible: 97
+Now testing smaller_num: 12
+Product of digits of smaller_num: 2
+Appending prime to possible: 97
+Now testing smaller_num: 13
+Product of digits of smaller_num: 3
+Appending prime to possible: 97
+Now testing smaller_num: 14
+Product of digits of smaller_num: 4
+Appending prime to possible: 97
+Now testing smaller_num: 15
+Product of digits of smaller_num: 5
+Appending prime to possible: 97
+Now testing smaller_num: 16
+Product of digits of smaller_num: 6
+Appending prime to possible: 97
+Now testing smaller_num: 17
+Product of digits of smaller_num: 7
+Appending prime to possible: 97
+Now testing smaller_num: 18
+Product of digits of smaller_num: 8
+Appending prime to possible: 97
+Now testing smaller_num: 19
+Product of digits of smaller_num: 9
+Appending prime to possible: 97
+Now testing smaller_num: 20
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 21
+Product of digits of smaller_num: 2
+Appending prime to possible: 97
+Now testing smaller_num: 22
+Product of digits of smaller_num: 4
+Appending prime to possible: 97
+Now testing smaller_num: 23
+Product of digits of smaller_num: 6
+Appending prime to possible: 97
+Now testing smaller_num: 24
+Product of digits of smaller_num: 8
+Appending prime to possible: 97
+Now testing smaller_num: 25
+Product of digits of smaller_num: 10
+Appending prime to possible: 97
+Now testing smaller_num: 26
+Product of digits of smaller_num: 12
+Appending prime to possible: 97
+Now testing smaller_num: 27
+Product of digits of smaller_num: 14
+Appending prime to possible: 97
+Now testing smaller_num: 28
+Product of digits of smaller_num: 16
+Appending prime to possible: 97
+Now testing smaller_num: 29
+Product of digits of smaller_num: 18
+Appending prime to possible: 97
+Now testing smaller_num: 30
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 31
+Product of digits of smaller_num: 3
+Appending prime to possible: 97
+Now testing smaller_num: 32
+Product of digits of smaller_num: 6
+Appending prime to possible: 97
+Now testing smaller_num: 33
+Product of digits of smaller_num: 9
+Appending prime to possible: 97
+Now testing smaller_num: 34
+Product of digits of smaller_num: 12
+Appending prime to possible: 97
+Now testing smaller_num: 35
+Product of digits of smaller_num: 15
+Appending prime to possible: 97
+Now testing smaller_num: 36
+Product of digits of smaller_num: 18
+Appending prime to possible: 97
+Now testing smaller_num: 37
+Product of digits of smaller_num: 21
+Appending prime to possible: 97
+Now testing smaller_num: 38
+Product of digits of smaller_num: 24
+Appending prime to possible: 97
+Now testing smaller_num: 39
+Product of digits of smaller_num: 27
+Appending prime to possible: 97
+Now testing smaller_num: 40
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 41
+Product of digits of smaller_num: 4
+Appending prime to possible: 97
+Now testing smaller_num: 42
+Product of digits of smaller_num: 8
+Appending prime to possible: 97
+Now testing smaller_num: 43
+Product of digits of smaller_num: 12
+Appending prime to possible: 97
+Now testing smaller_num: 44
+Product of digits of smaller_num: 16
+Appending prime to possible: 97
+Now testing smaller_num: 45
+Product of digits of smaller_num: 20
+Appending prime to possible: 97
+Now testing smaller_num: 46
+Product of digits of smaller_num: 24
+Appending prime to possible: 97
+Now testing smaller_num: 47
+Product of digits of smaller_num: 28
+Appending prime to possible: 97
+Now testing smaller_num: 48
+Product of digits of smaller_num: 32
+Appending prime to possible: 97
+Now testing smaller_num: 49
+Product of digits of smaller_num: 36
+Appending prime to possible: 97
+Now testing smaller_num: 50
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 51
+Product of digits of smaller_num: 5
+Appending prime to possible: 97
+Now testing smaller_num: 52
+Product of digits of smaller_num: 10
+Appending prime to possible: 97
+Now testing smaller_num: 53
+Product of digits of smaller_num: 15
+Appending prime to possible: 97
+Now testing smaller_num: 54
+Product of digits of smaller_num: 20
+Appending prime to possible: 97
+Now testing smaller_num: 55
+Product of digits of smaller_num: 25
+Appending prime to possible: 97
+Now testing smaller_num: 56
+Product of digits of smaller_num: 30
+Appending prime to possible: 97
+Now testing smaller_num: 57
+Product of digits of smaller_num: 35
+Appending prime to possible: 97
+Now testing smaller_num: 58
+Product of digits of smaller_num: 40
+Appending prime to possible: 97
+Now testing smaller_num: 59
+Product of digits of smaller_num: 45
+Appending prime to possible: 97
+Now testing smaller_num: 60
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 61
+Product of digits of smaller_num: 6
+Appending prime to possible: 97
+Now testing smaller_num: 62
+Product of digits of smaller_num: 12
+Appending prime to possible: 97
+Now testing smaller_num: 63
+Product of digits of smaller_num: 18
+Appending prime to possible: 97
+Now testing smaller_num: 64
+Product of digits of smaller_num: 24
+Appending prime to possible: 97
+Now testing smaller_num: 65
+Product of digits of smaller_num: 30
+Appending prime to possible: 97
+Now testing smaller_num: 66
+Product of digits of smaller_num: 36
+Appending prime to possible: 97
+Now testing smaller_num: 67
+Product of digits of smaller_num: 42
+Appending prime to possible: 97
+Now testing smaller_num: 68
+Product of digits of smaller_num: 48
+Appending prime to possible: 97
+Now testing smaller_num: 69
+Product of digits of smaller_num: 54
+Appending prime to possible: 97
+Now testing smaller_num: 70
+Product of digits of smaller_num: 0
+Appending prime to possible: 97
+Now testing smaller_num: 71
+Product of digits of smaller_num: 7
+Appending prime to possible: 97
+Now testing smaller_num: 72
+Product of digits of smaller_num: 14
+Appending prime to possible: 97
+Now testing smaller_num: 73
+Product of digits of smaller_num: 21
+Appending prime to possible: 97
+Now testing smaller_num: 74
+Product of digits of smaller_num: 28
+Appending prime to possible: 97
+Now testing smaller_num: 75
+Product of digits of smaller_num: 35
+Appending prime to possible: 97
+Now testing smaller_num: 76
+Product of digits of smaller_num: 42
+Appending prime to possible: 97
+Now testing smaller_num: 77
+Product of digits of smaller_num: 49
+Appending prime to possible: 97
+Now testing smaller_num: 78
+Product of digits of smaller_num: 56
+Appending prime to possible: 97
+Now testing smaller_num: 79
+Product of digits of smaller_num: 63
+Prime did not qualify. 
+
+['[29]', '[37]', '[47]', '[59]', '[67]', '[79]', '[89]']
+
+Process finished with exit code 0
