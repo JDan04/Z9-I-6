@@ -10,14 +10,16 @@ for prime in range(2, 101):
         print("Prime number to test: " + str(prime))
 
         string_prime = str(prime)
-        list_digits_prime = list(string_prime)
-
-        print("The list of digits in current prime: " + str(list_digits_prime))
 
         prime_length = len(string_prime)
         print("Prime_length: " + str(prime_length))
 
         if prime_length == 2:
+
+            list_digits_prime = list(string_prime)
+
+            print("The list of digits in current prime: " + str(list_digits_prime))
+
             product_prime = 1
 
             for digit_prime in list_digits_prime:
@@ -25,7 +27,6 @@ for prime in range(2, 101):
 
             print("Product of digits of product_prime: " + str(product_prime))
 
-            global not_qualified
             not_qualified = False
             print("Setting not_qualified to: " + str(not_qualified))
 
@@ -55,6 +56,7 @@ for prime in range(2, 101):
                 possible = list(dict.fromkeys(possible))
                 answers.append(str(possible))
                 print("Appending prime to answers: " + str(possible) + "\n")
+                possible.clear()
 
         else:
             print("Prime did not qualify. \n")
